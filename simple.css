@@ -1,0 +1,20 @@
+html {
+  background:linear-gradient(lightblue, beige, lightgreen);
+  font-family: helvetica;
+  
+}
+.radioButtons {
+  text-align: center;
+  color: blue;
+   padding: 5px;
+  margin: 5px;
+}
+.ul1 {
+  background: lightblue;
+
+}
+.p3Buttons {
+  border-radius: 10px;
+  color:darkgreen;
+ box-shadow: 5px 5px;
+}
